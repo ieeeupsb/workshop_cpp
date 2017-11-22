@@ -1,6 +1,6 @@
 # What do you need?
 
-C++ is a compiled language, the code you write is then compiled to machine code. What does that mean, you ask. Basically, a program converts your code to assembly (which is for the most part just machine code that is human readable) and then another program, called the Assembler, translates this to machine code that is understanded by your particular machine. To be able to run the programs in your machine, you need to have this tools that convert the source code into machine code for your computer architecure.
+C++ is a compiled language, the code you write is then compiled to machine code. What does that mean, you ask. Basically, a program converts your code to assembly (which is for the most part just machine code that is human readable) and then another program, called the Assembler, translates this to machine code that is understanded by your particular machine. To be able to run the programs in your machine, you need to have this tools that convert the source code into machine code for your computer architecture.
 
 ## Windows
 
