@@ -13,7 +13,7 @@ On a Mac, the best way to program C++ is just to install [Xcode](https://develop
 ## Linux & BSD
 
 If you run Linux or BSD in your machine, you probably have everything you need. Most Linux and BSD distros come with a C/C++ compiler out of the box, *gcc*, probably. So you can just write your code in a text editor (can be a terminal based text editor - *Nano*, *VIM*,... - or something like [Sublime Text](https://www.sublimetext.com/), *gedit*,...) and then compile it at the command line with *gcc* or *Clang*.
-This said, you might want to use an IDE to help the development of your programs. You can use something like [CLion](https://www.jetbrains.com/clion/), [Visual Studio Code](https://code.visualstudio.com/) or [Eclipse](ttp://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/oxygen1a). Finally, if your OS doesn't come with a C++ compiler, you probably can install it using your package manager, something like `sudo apt install gcc` on distros using the Aptitude package manager.
+This said, you might want to use an IDE to help the development of your programs. You can use something like [CLion](https://www.jetbrains.com/clion/), [Visual Studio Code](https://code.visualstudio.com/) or [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/oxygen1a). Finally, if your OS doesn't come with a C++ compiler, you probably can install it using your package manager, something like `sudo apt install gcc` on distros using the Aptitude package manager.
 
 ## On the cloud
 
