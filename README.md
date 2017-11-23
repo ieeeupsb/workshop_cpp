@@ -1,6 +1,6 @@
 # What do you need?
 
-C++ is a compiled language, the code you write is then compiled to machine code. What does that mean, you ask. Basically, a program converts your code to assembly (which is for the most part just machine code that is human readable) and then another program, called the Assembler, translates this to machine code that is understanded by your particular machine. To be able to run the programs in your machine, you need to have this tools that convert the source code into machine code for your computer architecture.
+C++ is a compiled language, the code you write is then compiled to machine code. What does that mean, you ask. Basically, a program converts your code to assembly (which is for the most part just machine code that is human readable) and then another program, called the Assembler, translates this to machine code that is understanded by your particular machine. To be able to run the programs in your machine, you need to have this tools that convert the source code into machine code for your computer architecure.
 
 ## Windows
 
@@ -13,7 +13,7 @@ On a Mac, the best way to program C++ is just to install [Xcode](https://develop
 ## Linux & BSD
 
 If you run Linux or BSD in your machine, you probably have everything you need. Most Linux and BSD distros come with a C/C++ compiler out of the box, *gcc*, probably. So you can just write your code in a text editor (can be a terminal based text editor - *Nano*, *VIM*,... - or something like [Sublime Text](https://www.sublimetext.com/), *gedit*,...) and then compile it at the command line with *gcc* or *Clang*.
-This said, you might want to use an IDE to help the development of your programs. You can use something like [CLion](https://www.jetbrains.com/clion/), [Visual Studio Code](https://code.visualstudio.com/) or [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/oxygen1a). Finally, if your OS doesn't come with a C++ compiler, you probably can install it using your package manager, something like `sudo apt install gcc` on distros using the Aptitude package manager.
+This said, you might want to use an IDE to help the development of your programs. You can use something like [CLion](https://www.jetbrains.com/clion/), [Visual Studio Code](https://code.visualstudio.com/) or [Eclipse](ttp://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/oxygen1a). Finally, if your OS doesn't come with a C++ compiler, you probably can install it using your package manager, something like `sudo apt install gcc` on distros using the Aptitude package manager.
 
 ## On the cloud
 
@@ -26,6 +26,7 @@ Once you have configured everything, you need to see if the setup is running as 
 ```c++
 
 #include <iostream>
+
 using namespace std;
 
 int main() 
@@ -38,4 +39,4 @@ int main()
 Don't worry if you don't understand anything, this is going to be an entry level workshop!
 If you are using an IDE, just create a new project, create a *.cpp* file and then copy and run the code.
 If you are using the command line, after creating a *.cpp* file and copying the code, run the command ` g++ -o <program_name> <file_name> ` and run it by typing `./program_name`
-If you have any problem installing anything or need help in any way, send an e-mail to *franciscofernandespimenta@gmail.com*
+If you have any problem installing anything or need help in any way, send an e-mail to *franciscofpimenta@ieee.com*
