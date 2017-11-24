@@ -16,7 +16,7 @@ If you find any typo or error in the documentation, you are more than welcome to
  4. [Functions](./content/functions.md) - functions, parameters, pointers
  5. [IO](./content/io.md) - Input/Output data to/from the program
  6. [Classes](./content/classes.md) - Object Oriented Programming with C++
- 7. [Extras](./content/extra.md) - Some extra stuff you might need for the exercises
+ 7. [Extras](./content/extras.md) - Some extra stuff you might need for the exercises
 
 ## Exercises
  1. Let's start with the basics - Write a program that finds all the prime numbers between a range that's entered by the user
