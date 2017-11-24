@@ -8,7 +8,7 @@ If you find any typo or error in the documentation, you are more than welcome to
  In [this](./content/setup.md) section you will find information on how to set up everything in your computer
 
 ## Presentation
-  [Here](./content/Intro_cpp.pptx) you can find the presentation file if you want to follow it or use for reference
+  [Here](./presentation/Intro_cpp.pptx) you can find the presentation file if you want to follow it or use for reference
 ## The C++ Language
  1. [Program Structure](./content/pgrm_struct.md) - The structure of a C++ program
  2. [Data Types](./content/data.md) - `int `,`float `,`String `
