@@ -14,9 +14,9 @@ We hope you enjoy 😊
 
 ## Authors
 
-* **João Conde** - [fabiodrg666](https://github.com/joao-conde)
-* **Gonçalo Marantes** - [fabiodrg666](https://github.com/Marantesss)
-* **Pedro Esteves** - [fabiodrg666](https://github.com/pemesteves)
+* **João Conde** - [joao-conde](https://github.com/joao-conde)
+* **Gonçalo Marantes** - [Marantesss](https://github.com/Marantesss)
+* **Pedro Esteves** - [pemesteves](https://github.com/pemesteves)
 * **Fábio Gaspar** - [fabiodrg666](https://github.com/fabiodrg666)
 
 ## License
