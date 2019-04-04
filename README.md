@@ -4,11 +4,17 @@ This repository contains the presentation and exercises for the C++ Workshop giv
 
 ## Workshop Information
 
+### Wiki
+
 All the workshop's information can be viewed [here](https://github.com/ieeeupsb/workshop_cpp/wiki).
 
 Please read carefully and if you have any questions please don't exitate to ask. 
 
-Don't look at the exercises solutions until you finished them!
+Don't look at the exercises solutions until you finished them, or else...!
+
+### Presentation
+
+[Click me!](https://ieeeupsb.github.io/workshop_cpp)
 
 We hope you enjoy 😊
 
